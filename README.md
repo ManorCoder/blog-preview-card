@@ -1,6 +1,6 @@
 # 1. Project Summary
-**Descripción:** This project is a solution to the Blog Preview Card challenge from Frontend Mentor. The goal is to build a blog preview card component using HTML and CSS, following best practices for responsive design
-**Objetivo:** Build a blog preview card component using HTML and CSS, applying responsive design.
+- **Description:** This project is a solution to the Blog Preview Card challenge from Frontend Mentor. The goal is to build a blog preview card component using HTML and CSS, following best practices for responsive design
+- **Objective:** Build a blog preview card component using HTML and CSS, applying responsive design.
 
 ## 2. Process
 **Planning:**
