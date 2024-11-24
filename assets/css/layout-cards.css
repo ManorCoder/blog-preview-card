@@ -67,7 +67,7 @@
 
 .description {
     height: 100%;
-    font-size: clamp(0.875em, 1vw, 1em);
+    font-size: clamp(0.875em, 3vw, 1em);
     font-weight: 500;
     line-height: 21px;
     color: var(--gray-medium);
