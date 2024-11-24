@@ -3,12 +3,11 @@
 - **Objective:** Build a blog preview card component using HTML and CSS, applying responsive design.
 
 ## 2. Process
-**Planning:**
-
+- **Planning:**
 I started by researching the design and structure of the card in Figma.
 I first developed the HTML structure semantically, then applied styling, prioritizing work-mobile and later adapting it for responsiveness.
-Development:
 
+- **Development:**
 I implemented the responsive design without using media queries, relying solely on clamp() and relative units like em and vh.
 
 ## 3. Technologies Used
