@@ -1,0 +1,50 @@
+/* ==================== */
+/*      VARIABLES       */
+/* ==================== */
+:root {
+    /* Colors */
+    --primary-color: hsl(0, 0%, 100%);
+    --secondary-color: hsl(47, 88%, 63%);
+    --gray-dark: hsl(0, 0%, 7%); 
+    --gray-medium: hsl(0, 0%, 42%); 
+
+    /* Typography */
+    --font-primary: 'Figtree'; 
+    --font-secondary: 'Arial', sans-serif;
+    --font-size-base: 16px;
+    --spacing-small: 8px;
+}
+
+
+/* ==================== */
+/*     IMPORT FONTS     */
+/* ==================== */
+@font-face {
+    font-family: 'Figtree';
+    src:url(/assets/fonts/Figtree-VariableFont_wght.ttf) format('truetype'),
+        url(/assets/fonts/Figtree-VariableFont_wght.ttf) format('truetype'),
+        url(/assets/fonts/Figtree-SemiBold.ttf) format('truetype'),
+        url(/assets/fonts/Figtree-ExtraBold.ttf) format('truetype');
+    font-weight: 400 900;
+    font-style: normal;
+}
+
+/* ==================== */
+/*       GENERAL        */
+/* ==================== */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-primary);
+    font-size: var(--font-size-base);
+    background: var(--secondary-color);
+}
+
+p {
+    margin: 0;
+    display: inline-block;
+}
