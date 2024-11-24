@@ -24,4 +24,4 @@ The hardest part for me was implementing responsive design without using media q
 Additionally, I focused on analyzing the design structure and comparing it with the original.
 
 ### Live Preview
-Check out the live version of the project here: [Live Demo](https://manorcoder.github.io/qr-code-generator/)
+Check out the live version of the project here: [Live Demo](https://manorcoder.github.io/blog-preview-card/)
